@@ -1,4 +1,20 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: black;
+  height: 100%;
+
+}
+h1{
+  color: white;
+}
+.jumbotron {
+  background-color: black;
+  display: inline-block;
+  
+}
+.modal-title{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
 }
